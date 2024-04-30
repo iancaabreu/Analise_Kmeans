@@ -1,8 +1,7 @@
 # Personas_Kmeans 
 
 Este projeto foi desenvolvido durante o último semestre do Curso de Ciência de Dados, como parte da disciplina de Aprendizagem de Máquina, ministrada pelo Professor Rogério. A parceria para o desenvolvimento do projeto foi estabelecida com meu colega de sala, Fernando.
-Foi utilizado o algoritmo K-means, agrupamento K-Means é um algoritmo de aprendizagem não supervisionado usado para resolver problemas de agrupamento. Segue um procedimento simples de classificação de um determinado conjunto de dados em um número de clusters, definidos pelo parâmetro k. A Biblioteca GDS Neo4j conduz clustering com base nas propriedades do nó, com uma propriedade do nó da matriz flutuante sendo passada como entrada por meio do nodePropertyparâmetro. Os nós no gráfico são então posicionados como pontos em um despaço dimensional (onde dé o comprimento da propriedade da matriz).
-
+Foi utilizado o algoritmo K-means, agrupamento K-Means é um algoritmo de aprendizagem não supervisionado usado para resolver problemas de agrupamento. Segue um procedimento simples de classificação de um determinado conjunto de dados em um número de clusters, definidos pelo parâmetro k.
 ## Base de dados 
 (Dados Fictícios)
 
